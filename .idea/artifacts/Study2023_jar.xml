@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Study2023:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hivejdbc2023_jar</output-path>
+    <root id="archive" name="Study2023.jar">
+      <element id="module-output" name="Study2023" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hjdbc-1.0-SNAPSHOT-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../json-20210307.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
